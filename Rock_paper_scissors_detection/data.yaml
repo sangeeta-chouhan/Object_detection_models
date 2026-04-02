@@ -1,0 +1,7 @@
+train: /mnt/d/Python/Machine_learning/Object_Detection/rock-paper-scissors.v14i.yolov11/train/images
+val:    /mnt/d/D:/Python/Machine_learning/Object_Detection/rock-paper-scissors.v14i.yolov11/valid/images
+test:  /mnt/d/D:/Python/Machine_learning/Object_Detection/rock-paper-scissors.v14i.yolov11/test/images
+
+nc: 3
+names: ['Paper', 'Rock', 'Scissors']
+
